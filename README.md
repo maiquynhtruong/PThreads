@@ -1,5 +1,5 @@
-# ud923
-Introduction to Operating Systems course on Udacity
+# Operating-System-exercises
+Stuff I learned from doing homework at UC's Operating System course and taking "Introduction to Operating Systems" course on Udacity.
 
 # How to run (tested on Ubuntu)
 - PThread codes:
@@ -7,3 +7,4 @@ Introduction to Operating Systems course on Udacity
 ```
 gcc -Wall -o hello hello.c -pthread
 ```
+- Other files, follow instructions in comment
